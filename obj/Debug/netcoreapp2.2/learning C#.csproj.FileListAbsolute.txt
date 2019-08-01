@@ -1,0 +1,11 @@
+C:\Users\lucas.rafaele\Desktop\learning C#\bin\Debug\netcoreapp2.2\learning C#.deps.json
+C:\Users\lucas.rafaele\Desktop\learning C#\bin\Debug\netcoreapp2.2\learning C#.runtimeconfig.json
+C:\Users\lucas.rafaele\Desktop\learning C#\bin\Debug\netcoreapp2.2\learning C#.runtimeconfig.dev.json
+C:\Users\lucas.rafaele\Desktop\learning C#\bin\Debug\netcoreapp2.2\learning C#.dll
+C:\Users\lucas.rafaele\Desktop\learning C#\bin\Debug\netcoreapp2.2\learning C#.pdb
+C:\Users\lucas.rafaele\Desktop\learning C#\obj\Debug\netcoreapp2.2\learning C#.csprojAssemblyReference.cache
+C:\Users\lucas.rafaele\Desktop\learning C#\obj\Debug\netcoreapp2.2\learning C#.csproj.CoreCompileInputs.cache
+C:\Users\lucas.rafaele\Desktop\learning C#\obj\Debug\netcoreapp2.2\learning C#.AssemblyInfoInputs.cache
+C:\Users\lucas.rafaele\Desktop\learning C#\obj\Debug\netcoreapp2.2\learning C#.AssemblyInfo.cs
+C:\Users\lucas.rafaele\Desktop\learning C#\obj\Debug\netcoreapp2.2\learning C#.dll
+C:\Users\lucas.rafaele\Desktop\learning C#\obj\Debug\netcoreapp2.2\learning C#.pdb
